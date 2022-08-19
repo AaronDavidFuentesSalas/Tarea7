@@ -43,3 +43,23 @@
 
 ![image](https://user-images.githubusercontent.com/105386939/185523935-6d2f7826-3bda-4f8d-8140-061e85d889ca.png)
 
+5.CONCLUSIONES
+
+• Podemos ver como los capitulos se complementan con conceptos aprendidos anteriormente, seguimos trabajando con voltaje y corrientes que s epueden encontrar por diferentes metodos solo que ahora trabajamos con ondas sinusoidales para la corriente.
+
+• Existe cierta relacion entre los inductores y los transformadores y es que un trasnsformador esta formado por dos bobinas, la inductancia de cada bobina y la cantidad de acoplamiento (k) entre las dos bobinas establecen la inductancia mutua. Para llevar al máximo el acoplamiento entre las dos bobinas, se enrollan en un núcleo común..
+
+6.RUBRICA
+
+![image](https://user-images.githubusercontent.com/105386939/185524030-5b485f5f-0126-4739-9218-1390def441a8.png)
+
+7.BIBLIOGRAFIAS
+
+LOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición.
+
+García ,A.(2013) Ley de los voltajes de Kirchhoff: Método de Mallas.
+
+Charles Alexander, Matthew Sadiku. Fundamento de circuitos eléctricos.
+
+Milton Gussonw, Mexico McGraw-Hill.(1985). FUNDAMENTOS DE ELECTRICIDAD.
+
